@@ -1,0 +1,29 @@
+Algoritmo:
+Cómo compartir información confiable en internet
+
+Inicio
+
+Pensar qué información se va a compartir
+Buscar información en internet
+Revisar la fuente
+Si la fuente es confiable, entonces:
+Verificar la URL del sitio
+Si la URL es .gov, .edu o .org, entonces:
+Verificar el autor
+Revisar la fecha
+Si la información es reciente, entonces:
+Comparar con otras páginas
+Si la información coincide, entonces:
+Leer bien todo
+Compartir información
+Si no coincide:
+No compartir información
+Si no es reciente:
+No compartir (puede estar desactualizada)
+Si la URL NO es confiable:
+Buscar otra fuente confiable
+Si la fuente NO es confiable:
+No confiar en la información
+no compartir información
+
+Fin
